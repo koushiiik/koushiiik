@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm Koushik Mahanta</h1>
+<h1 align="center">Hi 👋, I'm Koushik </h1>
 <h3 align="center">💻 Software Engineering Enthusiast | 🧠 Problem Solver | 🚀 Full-Stack Developer</h3>
 
 <p align="center">
