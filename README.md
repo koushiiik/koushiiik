@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Koushik Mahanta</h1>
-<h3 align="center">💻 Computer Science Engineer | 🔐 Security-Focused Developer | 🤖 AI & Intelligent Systems Builder</h3>
+<h3 align="center">💻 Software Engineering Enthusiast | 🧠 Problem Solver | 🚀 Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/koushiiik">
@@ -14,11 +14,10 @@
 ## 🚀 About Me
 
 🎓 Computer Science & Engineering Student  
-🔐 Passionate about Cybersecurity & Secure System Design  
-🤖 Building AI-powered real-world applications    
-🧠 Strong in Data Structures & Algorithms  
-
-
+💻 Focused on Software Development & System Design  
+🧠 Strong foundation in Data Structures & Algorithms  
+🚀 Building real-world projects to solve practical problems  
+📈 Continuously improving through consistent coding & development  
 
 
 ## 🔗 Connect With Me
