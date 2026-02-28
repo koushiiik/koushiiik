@@ -50,9 +50,9 @@
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=hackthebox&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=yellow"/>
 </p>
-
 ---
 
 
