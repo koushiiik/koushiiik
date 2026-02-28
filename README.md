@@ -37,9 +37,7 @@
 ## 🔢 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/KoushikMahanta/">
-    <img src="https://leetcode-card.surge.sh/KoushikMahanta?theme=dark&border=true" />
-  </a>
+  <img src="https://leetcard.jacoblin.cool/KoushikMahanta?theme=dark&font=Baloo&ext=heatmap" />
 </p>
 
 ---
